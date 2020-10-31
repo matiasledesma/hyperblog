@@ -42,6 +42,10 @@ body{
     font-size: 20px;
 }
 #footer{
-    text-align: center;
-    background: rgb(105, 105, 105);
+    font-size: 20px;
+    font-family: fantasy;
+    color: white;
+    text-align: right;
+    background:#33A;
+    padding: 1;
 }
