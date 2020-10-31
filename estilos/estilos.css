@@ -42,10 +42,13 @@ body{
     font-size: 20px;
 }
 #footer{
-    font-size: 20px;
-    font-family: fantasy;
+    font-size: 0.8em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     text-align: right;
-    background:#33A;
-    padding: 1;
+    background: rgb(92, 92, 92);
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bolder;
+
 }
